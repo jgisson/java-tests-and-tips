@@ -1,4 +1,4 @@
-package jgisson.java.java8.foreach;
+package jgisson.java8.foreach;
 
 import java.util.HashMap;
 import java.util.Map;

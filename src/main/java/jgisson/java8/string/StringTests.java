@@ -1,4 +1,4 @@
-package jgisson.java.java8.string;
+package jgisson.java8.string;
 
 /**
  * Created by jgisson on 14/03/2017.

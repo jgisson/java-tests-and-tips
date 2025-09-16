@@ -1,4 +1,4 @@
-package jgisson.java.java8.string;
+package jgisson.java8.string;
 
 /**
  * Created by jgisson: String perf tests.

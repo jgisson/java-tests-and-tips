@@ -1,4 +1,4 @@
-package jgisson.java.java8.stream;
+package jgisson.java8.stream;
 
 import java.util.ArrayList;
 import java.util.Arrays;

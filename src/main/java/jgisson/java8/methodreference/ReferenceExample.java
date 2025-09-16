@@ -1,4 +1,4 @@
-package jgisson.java.java8.methodreference;
+package jgisson.java8.methodreference;
 
 @FunctionalInterface
 interface Converter<T, R> {

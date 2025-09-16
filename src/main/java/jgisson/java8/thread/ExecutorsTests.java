@@ -1,4 +1,4 @@
-package jgisson.java.java8.thread;
+package jgisson.java8.thread;
 
 import java.util.concurrent.*;
 import java.util.stream.IntStream;

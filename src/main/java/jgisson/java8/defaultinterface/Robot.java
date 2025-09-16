@@ -1,4 +1,4 @@
-package jgisson.java.java8.defaultinterface;
+package jgisson.java8.defaultinterface;
 
 public interface Robot {
   boolean move();

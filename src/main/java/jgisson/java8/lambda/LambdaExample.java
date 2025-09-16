@@ -1,8 +1,7 @@
-package jgisson.java.java8.lambda;
+package jgisson.java8.lambda;
 
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 public class LambdaExample {

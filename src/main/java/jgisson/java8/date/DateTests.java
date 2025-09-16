@@ -1,4 +1,4 @@
-package jgisson.java.java8.date;
+package jgisson.java8.date;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

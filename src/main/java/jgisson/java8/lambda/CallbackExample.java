@@ -1,4 +1,4 @@
-package jgisson.java.java8.lambda;
+package jgisson.java8.lambda;
 
 import java.util.function.Function;
 

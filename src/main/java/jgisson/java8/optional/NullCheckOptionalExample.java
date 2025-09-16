@@ -1,4 +1,4 @@
-package jgisson.java.java8.optional;
+package jgisson.java8.optional;
 
 import java.util.Optional;
 
